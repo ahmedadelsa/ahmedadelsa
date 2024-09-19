@@ -1,5 +1,6 @@
-# 💫 Hi There I am Ahmed Adel
-📘I'm a Computer Science student<br>👨‍💻I'm a Frontend Web Devoloper<br>✍️I'm a Data Entry<br>💫Aspiring Fullstack Web Devoloper and Web Pentester
+# 💫 Hi There
+# I am Ahmed Adel
+📘I'm a Computer Science student at Higher Technological Institute 10th (HTI) <br>👨‍💻I'm a Frontend Web Devoloper<br>✍️I'm a Data Entry<br>💫Aspiring Fullstack Web Devoloper and Web Pentester
 
 
 ## 🌐 Socials:
